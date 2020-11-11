@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'aa' => 'YOUR NEW',
+  'ab' => 'PROJECT ANNOUNCEMENT',
+  'ac' => '1',
+  'ad' => 'Log in',
+  'ae' => '2',
+  'af' => 'Subscription',
+  'ag' => '3',
+  'ah' => 'Register',
+  'ai' => '4',
+  'aj' => 'Description',
+  'ak' => '5',
+  'al' => 'Criteria',
+  'am' => '6',
+  'an' => 'Ad',
+  'ao' => 'PROJECT',
+  'ap' => '7',
+  'aq' => 'Media',
+  'ar' => '8',
+  'as' => 'Location',
+  'at' => '9',
+  'au' => 'Ads',
+  'av' => 'well',
+  'aw' => '10',
+  'ax' => 'Payment',
+];

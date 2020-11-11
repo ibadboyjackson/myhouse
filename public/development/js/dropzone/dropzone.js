@@ -1,0 +1,6 @@
+(function($) {
+
+    $("#result").sortable();
+
+
+})(jQuery);

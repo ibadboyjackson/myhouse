@@ -1,0 +1,764 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #b3b3b3;
+}
+
+/**
+    ****** NavBar ****
+ */
+.myHouse-navigation {
+    height: 73px !important;
+    background-color: #E4E4E4;
+    position: fixed;
+    width: 100%;
+    z-index: 400;
+    top: 0;
+}
+
+
+.myHouse-search-first-input {
+    width: 451px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.form-control::selection, .form-control:focus {
+    border-color: #46AB8E;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(70, 171, 142, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(70, 171, 142, 0.6);
+}
+
+.container-fluid {
+    max-width: 100%;
+}
+
+.myHouse-navigation-brand img {
+    width: 73px;
+    height: 73px;
+    margin: 0 27px;
+}
+
+@media (max-width: 760px) {
+    .myHouse-navigation-brand img {
+        margin: -12px 27px;
+    }
+}
+
+
+/*
+** Hamburger
+ */
+.myHouse-hamburger {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.hamburger span {
+    position: absolute;
+    height: 4px;
+    width: 24px;
+    background-color: #46AB8E;
+
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.hamburger span::before , .hamburger span::after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+
+    display: block;
+    width: 24px;
+    height: 4px;
+
+    transform: translateY(-10px);
+    background-color: #46AB8E;
+}
+
+.hamburger span::after {
+    transform: translateY(10px);
+}
+
+.text-hamburger {
+    position: absolute;
+    font-size: 12px;
+    color: #46AB8E;
+    display: block;
+    top: 75%;
+    margin-left: 9px;
+}
+
+.connexion img {
+    position: absolute;
+    height: 38px;
+    width: 28px;
+}
+.connexion {
+    margin-right: 70px;
+}
+.text-connexion {
+    position: absolute;
+    font-size: 12px;
+    color: #46AB8E;
+    top: 75%;
+    margin-left: -20px;
+}
+
+
+.myHouse-buttons {
+    margin-top: 10px;
+    margin-right: 70px;
+}
+
+
+.myHouse-buttons span {
+
+    display:inline-block;
+    height: 35px;
+    width: 200px;
+    text-align: center;
+
+    margin: 0 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.myHouse-buttons span a {
+    color: #46AB8E;
+    text-decoration: none;
+    line-height: 35px;
+}
+
+/*
+    ********* Header **********
+ */
+.myHouse-header {
+    height: 90px;
+    top: 73px;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    position: relative;
+    background-color: #F8F8F8;
+}
+
+@media (max-width: 992px) {
+    .myHouse-header {
+        min-width: 100%;
+    }
+}
+
+.test {
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.myHouse-select {
+    background-color: #fff;
+    border: 1px solid #d6d6d6;
+    width: 190px !important;
+    height: 45px;
+    border-radius: 5px;
+    color: black;
+    margin: 35px 20px;
+}
+
+
+.form {
+    margin-left: 40px;
+    position: relative;
+}
+
+
+.filter-option-inner-inner {
+    color: #46AB8E;
+}
+
+.myHouse-image {
+    color: #46AB8E;
+}
+
+/*
+*********** Bootstrap dropdown menu
+ */
+
+.bootstrap-select .dropdown-menu {
+    border-radius: 10px;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #ffffff;
+    color: #020202;
+    border-color: transparent;
+}
+.btn-light, .btn-light:active, .btn-light:hover, .btn-light:focus {
+    border-color: transparent;
+    background-color: #fff;
+}
+
+/*
+    *********** Button three
+ */
+.btn-group-vertical>.btn, .btn-group>.btn {
+    border: 1px solid #cfcfcf;
+    background-color: #ffffff;
+    height: 45px;
+    color: #46AB8E;
+    width: 280px !important;
+}
+
+.multiselect-container {
+    width: 280px;
+    border-radius: 10px;
+}
+
+.multiselect-container>li>a>label.checkbox, .multiselect-container>li>a>label.radio {
+    color: #575757;
+}
+
+/*
+    ******** MyHouse Span ***********
+ */
+.myHouse-hr {
+    display: inline-block;
+    width: 470px;
+    height: 1px;
+    background-color: #cfcfcf;
+    margin: 20px 150px;
+    position: absolute;
+}
+
+.myHouse-circle {
+    position: absolute;
+    display: inline-block;
+    margin: 11px 130px;
+    text-align: center;
+
+    height: 20px;
+    width: 20px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    border: 1px solid  #cfcfcf;
+}
+
+.myHouse-circle-1 {
+    position: absolute;
+    display: inline-block;
+    margin: 11px 340px;
+    text-align: center;
+
+    height: 20px;
+    width: 20px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    border: 1px solid  #cfcfcf;
+}
+
+
+.myHouse-circle-3 {
+    position: absolute;
+    display: inline-block;
+    margin: 11px 600px;
+    text-align: center;
+
+    height: 20px;
+    width: 20px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    border: 1px solid #cfcfcf;
+}
+
+.myHouse-circle-text {
+    position: absolute;
+    margin-left: -4px;
+    margin-top: -2px;
+    color: #979797;
+    font-size: 14px;
+}
+
+/*
+    ************* MyHouse Feature *************
+ */
+.myHouse-three {
+    display: inline-block;
+    width: 140px;
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid #cfcfcf;
+    position: relative;
+
+    border-radius: 30px;
+    margin-left: 50px;
+}
+
+.myHouse-three-link-1 {
+    position: absolute;
+    display: inline-block;
+
+
+    width: 28px;
+    height: 28px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.myHouse-three-link-2 {
+    position: absolute;
+    display: inline-block;
+    margin-left: 60px;
+
+    width: 28px;
+    height: 28px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.myHouse-three-link-3 {
+    position: absolute;
+    display: inline-block;
+    margin-left: 110px;
+
+    width: 28px;
+    height: 28px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.myHouse-three-link-active {
+    background-color: #46AB8E;
+}
+.myHouse-three-text-active {
+    color: #46AB8E;
+}
+
+.child-1 {
+    position: absolute;
+    font-size: 13px;
+    margin: 10px 65px;
+}
+
+.child-2, .child-3, .child-4 {
+    position: absolute;
+    font-size: 13px;
+}
+
+.child-2 {
+    margin: 63px -138px;
+}
+
+.child-3 {
+    margin: 63px -80px;
+}
+
+.child-4 {
+    margin: 63px -30px;
+}
+
+/*
+    ********* Slider range ***********
+ */
+
+.slider-2 {
+    margin: 35px 0;
+    position: absolute;
+}
+
+.slider-selection {
+    background: #46AB8E !important;
+    opacity: 0.7;
+}
+
+.slider-handle.round {
+    border: 1px solid #d6d6d6;
+}
+
+.slider.slider-horizontal .slider-selection, .slider.slider-horizontal .slider-track-low, .slider.slider-horizontal .slider-track-high {
+    background-color: #d4d4d4;
+}
+
+.slider.slider-horizontal .slider-track {
+    margin-top: -2px !important;
+    height: 5px !important;
+}
+
+.slider .tooltip.top {
+    margin-top: -22px !important;
+}
+
+.slider.slider-horizontal {
+    position: absolute;
+    width: 250px !important;
+    height: 5px;
+    margin: 15px 40px;
+}
+
+.slider-handle {
+    top: -2px;
+    background-color: #fff !important;
+    background-image: none !important;
+}
+
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #bdbdbd !important;
+    text-align: center;
+    background-color: transparent !important;
+    border-radius: 4px;
+}
+
+.tooltip.top .tooltip-arrow {
+    display: none !important;
+}
+
+
+.slider-ghost .slider-track {
+    height: 5px !important;
+}
+.slider-ghost .slider-handle {
+    top: -2px !important;
+    border: 5px solid #f77500;
+}
+
+.in{
+    opacity: 1;
+}
+
+/*
+    ****** Advertiser ******
+ */
+
+.myHouse-advertiser {
+    position: absolute;
+    display: inline-block;
+    margin: 16px 330px;
+}
+
+
+.checkboxes .cr {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #a9a9a9;
+    border-radius: .25em;
+    width: 1.3em;
+    height: 1.3em;
+    float: left;
+    margin-right: .5em;
+}
+
+.checkboxes {
+    margin: 18px 345px;
+    position: absolute;
+}
+
+.next {
+    margin: 44px 345px !important;
+    position: absolute;
+}
+.cr {
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.checkboxes .cr .cr-icon {
+    position: absolute;
+    font-size: .8em;
+    line-height: 0;
+    top: 50%;
+    left: 15%;
+}
+
+.checkboxes label input[type="checkbox"] {
+    display: none;
+}
+
+.checkboxes label input[type="checkbox"]+.cr>.cr-icon {
+    opacity: 0;
+}
+
+.checkboxes label input[type="checkbox"]:checked+.cr>.cr-icon {
+    opacity: 1;
+}
+
+.checkboxes label input[type="checkbox"]:disabled+.cr {
+    opacity: .5;
+}
+
+/*
+    ******** MyHouse Sort
+ */
+.myHouse-sort {
+    position: relative;
+    cursor: pointer;
+}
+
+.myHouse-sort-image {
+    position: absolute;
+    margin: 20px 515px;
+}
+.myHouse-sort-text {
+    position: absolute;
+    margin: 55px 522px;
+}
+
+/*
+    ****** Dropdown ******
+ */
+.myHouse-sort-dropdown {
+    display: inline-block;
+    position: absolute;
+    width: 250px;
+    height: 280px;
+    background-color: #fff;
+    margin-left: 415px;
+    cursor: auto;
+    margin-top: 90px;
+    transform: translateY(-450px);
+    transition: transform 0.5s;
+    z-index: 2;
+
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+
+.is-opened .myHouse-sort-dropdown {
+    transform: translateY(0);
+}
+
+.myHouse-sort-link {
+    margin: 10px;
+    position: absolute;
+}
+
+.one {
+    display: block;
+}
+
+[type="radio"]:checked,
+[type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 20px;
+    display: inline-block;
+    color: #666;
+}
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    background: #fff;
+}
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #46AB8E;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+[type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+[type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+/*
+    ***** MyHouse search input 2
+ */
+
+.myHouse-search-input-2 {
+    display: inline-block;
+    position: relative;
+}
+
+.myHouse-search-input-2 input {
+    position: absolute;
+    margin: -38px 593px;
+    border-radius: 20px;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-style: italic;
+}
+
+.myHouse-filters {
+    display: inline-block;
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    background: #fff;
+    border-radius: 20px;
+    margin: 22px 760px;
+    cursor: pointer;
+    border: 1px solid #d8d8d8;
+}
+.myHouse-filters-text {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 45px;
+    font-style: italic;
+    color: grey;
+}
+
+/*
+    **** Dropdown toggle
+ */
+.myHouse-caret {
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 13px;
+}
+.myHouse-filters-dropdown {
+    display: block;
+    position: absolute;
+    margin-left: -435px;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+    transform: translateY(-632px);
+    transition: transform 0.5s;
+    overflow-x: hidden;
+    cursor: auto;
+
+    margin-top: 67px;
+    width: 632px;
+    height: 210px;
+    background-color: #fff;
+}
+
+.show .myHouse-filters-dropdown {
+    transform: translateY(0);
+}
+
+.log {
+    display: inline-block;
+    position: relative;
+}
+
+.cover {
+    margin: 30px 25px;
+    display: inline-block;
+}
+
+.log .slider-horizontal {
+    width: 100px !important;
+    margin: -38px 45px;
+}
+
+.log .text-bottom {
+    position: absolute;
+    font-size: 13px;
+    margin-top: -15px;
+    margin-left: 42px;
+    color: #46AB8E;
+}
+
+.log-content-check {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -40px;
+
+}
+
+.log-content-check-1 {
+    margin-left: 50px;
+    margin-top: -16px;
+    position: absolute;
+}
+
+.mdr .slider-horizontal {
+    width: 100px !important;
+    margin: -45px 50px;
+}
+
+.log .text-bottom-1 {
+    position: absolute;
+    font-size: 13px;
+    margin-top: -22px;
+    margin-left: 60px;
+    color: #46AB8E;
+}
+
+.downtown {
+    display: inline-block;
+}
+
+.sky {
+    margin: 0 30px;
+    position: relative;
+}
+
+.sky .text-bottom {
+    position: absolute;
+    display: inline-block;
+    margin-left: -48px;
+    width: 150px;
+    margin-top: 40px;
+}
+
+.sky .text-bottoms {
+    position: absolute;
+    display: inline-block;
+    margin-left: -62px;
+    width: 150px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

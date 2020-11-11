@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'register' => 'Inscription Agent Immobilier',
+    'name' => 'Nom de l\'entreprise',
+    'type' => 'Type d\'entreprise',
+    'email' => 'Email',
+    'password' => 'Mot de passe',
+    'confirm' => 'Confirmer votre mot de passe',
+    'show' => 'S\'inscrire',
+    'lastname' => 'Prénom',
+    'city' => 'Ville',
+    'country' => 'Pays',
+    'phone' => 'Téléphone',
+    'admin' => 'Inscription administrateur',
+    'role' => 'Role',
+    'social' => 'Siège social',
+    'website' => 'Site web',
+    'affiliate_habit' => 'Habitude d\'affiliation web',
+    'adds_habit' => 'Habitude de compagne publicitaire',
+    'postal_address' => 'Adresse postale',
+    'logo' => 'Logo de l\'entreprise',
+    'lead_name' => 'Nom du dirigent',
+    'lead_function' => 'Fonction du dirigent',
+];

@@ -1,0 +1,33 @@
+<?php
+
+return [
+  'aa' => 'Description',
+  'ab' => 'Project description',
+  'ac' => 'TYPES OF PROJECT PROPERTY 1',
+  'ad' => 'residential',
+  'ae' => 'Apartment',
+  'af' => 'Sale price from',
+  'ag' => 'Sale price from',
+  'ah' => 'Living space',
+  'ai' => 'From _____m2',
+  'aj' => 'to ____m2',
+  'ak' => 'Number of rooms',
+  'al' => 'From___',
+  'am' => 'to __rooms',
+  'an' => 'Villa',
+  'ao' => 'Land area',
+  'ap' => 'Maison',
+  'aq' => 'Riad',
+  'ar' => 'Shed/Chalet',
+  'as' => 'commercial',
+  'at' => 'Trade',
+  'au' => 'Area',
+  'av' => 'Office',
+  'aw' => 'Tray',
+  'ax' => 'ground',
+  'ay' => 'Residential',
+  'az' => 'continue',
+
+  'aaa' => 'Select the types of property and describe their potential',
+  'aab' => 'Commercial',
+];

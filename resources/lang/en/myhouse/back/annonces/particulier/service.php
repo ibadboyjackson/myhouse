@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'aa' => 'Service',
+  'ab' => 'Place an ad',
+  'ac' => 'individuals',
+  'ad' => 'SERVICES',
+  'ae' => 'ADVERTISEMENT',
+  'af' => 'Number of ads',
+  'ag' => 'Add, delete, modify the advertisement',
+  'ah' => 'Deactivate, activate the announcement',
+  'ai' => 'Media',
+  'aj' => 'HD video',
+  'ak' => 'photographs',
+  'al' => 'Plan, 3D & 360 °',
+  'am' => 'MARKETING',
+  'an' => 'Share on social media',
+  'ao' => 'Instant messaging',
+  'ap' => 'Full app: Web/Android/IPhone/IPad/Desktop',
+  'aq' => 'Multilingual / international platform',
+  'ar' => 'Diary of visits and meetings',
+  'as' => 'FREE',
+  'at' => '4',
+  'au' => 'start',
+];

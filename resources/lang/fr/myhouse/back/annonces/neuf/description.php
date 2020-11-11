@@ -1,0 +1,33 @@
+<?php
+
+return [
+  'aa' => 'Description',
+  'ab' => 'Description projet',
+  'ac' => 'TYPES DE BIENS DU PROJET 1',
+  'ad' => 'résidentiel',
+  'ae' => 'Appartement',
+  'af' => 'Prix de vente à partir de',
+  'ag' => 'Prix de vente à partir de',
+  'ah' => 'Surface habitable',
+  'ai' => 'De_____m2',
+  'aj' => 'à ____m2',
+  'ak' => 'Nombre de chambres',
+  'al' => 'De___',
+  'am' => 'à __chambres',
+  'an' => 'Villa',
+  'ao' => 'Superficie terrain',
+  'ap' => 'Maison',
+  'aq' => 'Riad',
+  'ar' => 'Cabanon/Chalet',
+  'as' => 'commercial',
+  'at' => 'Commerce',
+  'au' => 'Superficie',
+  'av' => 'Bureau',
+  'aw' => 'Plateau',
+  'ax' => 'terrain',
+  'ay' => 'Résidentiel',
+  'az' => 'continuer',
+
+  'aaa' => ' Sélectionnez les types de bien et décrivez  leurs potentialités',
+  'aab' => 'Commercial',
+];

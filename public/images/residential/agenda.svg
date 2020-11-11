@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.228" height="33.709" viewBox="0 0 41.228 33.709">
+  <g id="agenda2" transform="translate(0.5 0.5)">
+    <g id="B_x26_W_version">
+      <g id="_x31_01_to_200">
+        <g id="calendar_2">
+          <g id="Groupe_270" data-name="Groupe 270">
+            <path id="Tracé_187" data-name="Tracé 187" d="M61.228,86.325a.376.376,0,0,1-.376.376H21.376A.376.376,0,0,1,21,86.325V57.376A.376.376,0,0,1,21.376,57H60.852a.376.376,0,0,1,.376.376Z" transform="translate(-21 -53.992)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Tracé_188" data-name="Tracé 188" d="M61.228,121.861c0,.209-.074.567-.282.567H21.47c-.208,0-.47-.358-.47-.567V101.19c0-.209.262-.191.47-.191H60.946c.208,0,.282-.018.282.191Z" transform="translate(-21 -89.719)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            <g id="Groupe_267" data-name="Groupe 267" transform="translate(0.376 11.279)">
+              <line id="Ligne_60" data-name="Ligne 60" x2="39.852" transform="translate(0 4.136)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_61" data-name="Ligne 61" x2="39.852" transform="translate(0 8.459)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_62" data-name="Ligne 62" x2="39.852" transform="translate(0 12.595)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_63" data-name="Ligne 63" x2="39.852" transform="translate(0 16.918)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_64" data-name="Ligne 64" y2="20.866" transform="translate(5.639)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_65" data-name="Ligne 65" y2="20.866" transform="translate(11.279 0.188)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_66" data-name="Ligne 66" y2="20.678" transform="translate(17.106 0.188)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_67" data-name="Ligne 67" y2="20.678" transform="translate(22.746 0.376)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_68" data-name="Ligne 68" y2="20.49" transform="translate(28.573 0.376)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Ligne_69" data-name="Ligne 69" y2="20.866" transform="translate(34.212)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+            <path id="Tracé_189" data-name="Tracé 189" d="M61.228,64.9a.376.376,0,0,1-.376.376H21.376A.376.376,0,0,1,21,64.9V57.376A.376.376,0,0,1,21.376,57H60.852a.376.376,0,0,1,.376.376Z" transform="translate(-21 -53.992)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            <g id="Groupe_269" data-name="Groupe 269" transform="translate(4.136)">
+              <g id="Groupe_268" data-name="Groupe 268">
+                <line id="Ligne_70" data-name="Ligne 70" y2="5.451" stroke-width="1" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+                <line id="Ligne_71" data-name="Ligne 71" y2="5.451" transform="translate(6.579)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                <line id="Ligne_72" data-name="Ligne 72" y2="5.451" transform="translate(12.971)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                <line id="Ligne_73" data-name="Ligne 73" y2="5.451" transform="translate(19.362)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                <line id="Ligne_74" data-name="Ligne 74" y2="5.451" transform="translate(25.753)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                <line id="Ligne_75" data-name="Ligne 75" y2="5.451" transform="translate(32.145)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

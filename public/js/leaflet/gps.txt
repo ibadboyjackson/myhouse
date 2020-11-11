@@ -1,0 +1,2 @@
+fonctionalité gps
+fonctionalité geoloc

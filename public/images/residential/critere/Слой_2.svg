@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Слой_2" transform="translate(0 0.5)">
+    <g id="Groupe_425" data-name="Groupe 425" transform="translate(0 0)">
+      <g id="Groupe_424" data-name="Groupe 424">
+        <line id="Ligne_82" data-name="Ligne 82" x2="50" transform="translate(0 49)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_129" data-name="Rectangle 129" width="22.802" height="3.8" transform="translate(3.8 45.2)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_130" data-name="Rectangle 130" width="3.8" height="43.705" transform="translate(10.01 1.495)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Groupe_423" data-name="Groupe 423" transform="translate(5.701 24.398)">
+          <g id="Groupe_418" data-name="Groupe 418" transform="translate(0 11.401)">
+            <rect id="Rectangle_131" data-name="Rectangle 131" width="3.8" height="2.85" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Groupe_419" data-name="Groupe 419" transform="translate(0 8.551)">
+            <rect id="Rectangle_132" data-name="Rectangle 132" width="3.8" height="2.85" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Groupe_420" data-name="Groupe 420" transform="translate(0 5.701)">
+            <rect id="Rectangle_133" data-name="Rectangle 133" width="3.8" height="2.85" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Groupe_421" data-name="Groupe 421" transform="translate(0 2.85)">
+            <rect id="Rectangle_134" data-name="Rectangle 134" width="3.8" height="2.85" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Groupe_422" data-name="Groupe 422">
+            <rect id="Rectangle_135" data-name="Rectangle 135" width="3.8" height="2.85" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+        <path id="Tracé_295" data-name="Tracé 295" d="M48.2,12.8H2L2.77,9H47.43Z" transform="translate(-0.1 -1.399)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Ligne_83" data-name="Ligne 83" x1="36.294" y1="5.701" transform="translate(5.345 1.9)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Ligne_84" data-name="Ligne 84" x1="4.751" y2="5.701" transform="translate(7.601 1.9)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Ligne_85" data-name="Ligne 85" y2="19.952" transform="translate(7.601 8.502)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Tracé_296" data-name="Tracé 296" d="M14.9,1h0a1.906,1.906,0,0,1,1.9,1.9V8.6H13V2.9A1.906,1.906,0,0,1,14.9,1Z" transform="translate(-2.99 -1)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Ligne_86" data-name="Ligne 86" y2="16.152" transform="translate(41.449 8.76)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Tracé_297" data-name="Tracé 297" d="M55.85,35.7h-1.9L53,30h3.8Z" transform="translate(-13.451 -7.577)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Tracé_298" data-name="Tracé 298" d="M54.92,36v1.9l.475.76a1.186,1.186,0,0,1-.19,1.615h0a1.243,1.243,0,0,1-1.805-.19" transform="translate(-13.471 -8.81)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_136" data-name="Rectangle 136" width="19.002" height="5.701" transform="translate(24.347 43.299)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_137" data-name="Rectangle 137" width="19.002" height="5.701" transform="translate(30.048 37.599)" fill="none" stroke="#575757" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

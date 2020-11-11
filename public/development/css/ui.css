@@ -1,0 +1,12 @@
+#ui-id-1 {
+    max-width: 648px !important;
+    margin: 0 auto !important;
+    z-index: 400;
+}
+
+.ui-menu {
+    border-radius: 50px !important;
+    padding: 20px !important;
+    font-family: "Gilroy-Regular ☞", sans-serif !important;
+    font-size: 18px;
+}

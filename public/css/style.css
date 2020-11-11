@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300i,300,400i,400,700|Poppins:400,500,600,700");
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    color: #4a4a4a;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+}
+.map{
+    height: 100vh;
+    background: blue;
+}
+@media only screen and (min-width: 1100px){
+    .map{
+        height: 100vh;
+    }
+}
+
+
+/*
+****************** Loader ***************************
+ */
+
+.loading{
+    width: auto;
+    height: 100vh;
+    background-color: #4472c4;
+    position: relative;
+}
+
+.loader{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 150px;
+    content: '';
+    background-color: #44546a;
+    border-radius: 120%;
+}
+
+.txt{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    color: #fff;
+}
+
+.txt-b{
+    position: absolute;
+    top: 118%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    left: 50%;
+}
+
+.txt-r{
+    position: absolute;
+    top: 143%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    left: 50%;
+    color: #fff6f9;
+}
+
+/* ---------------------------------------------------
+    NAV BAR
+----------------------------------------------------- */
+
+.pg{
+    position: relative;
+    display: block;
+    z-index: 455;
+}
+
+.pg-nav {
+    background-color: #fff !important;
+    height: 60px!important;
+
+    border: 1px solid black;
+    cursor: default;
+}
+
+
+.pg-r{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid black;
+
+    border-radius: 50%;
+}
+
+.pg-r span{
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    display: block;
+    width: 22px;
+    height: 2px;
+
+    background-color: #000000;
+    transform: translate(-50%, -50%);
+}
+
+.pg-r span::before, .pg-r span::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+
+    display: block;
+    width: 22px;
+    height: 2px;
+
+    transform: translateY(-6px);
+    background-color: #000000;
+}
+
+.pg-r span::after{
+    transform: translateY(6px);
+}
+
+.pg-user{
+    height: 50px;
+    width: 22px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.fa-user{
+    color: #c4c436;
+    height: 50px;
+    font-size: 25px;
+    margin-right: 25px;
+}
+.fa-user:hover{
+    color: #808080;
+}
+
+/* ---------------------------------------------------
+    SIDE BAR
+----------------------------------------------------- */
+
+.sidebar{
+    width: 280px;
+    height: 50vh;
+    margin-top: 5px;
+    margin-left: 19px;
+    background-color: #fff;
+    cursor: default;
+
+    box-shadow: 1px 1px 2px 2px #888888;
+    border-radius: 10px;
+}
+
+.pg-sidebar{
+    padding-top: 10px;
+    text-align: center;
+}

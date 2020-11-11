@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108.723" height="99.95" viewBox="0 0 108.723 99.95">
+  <defs>
+    <filter id="Tracé_1494" x="0" y="3.777" width="108.723" height="96.174" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_3221" data-name="Groupe 3221" transform="translate(-1364.613 -98.797)">
+    <g transform="matrix(1, 0, 0, 1, 1364.61, 98.8)" filter="url(#Tracé_1494)">
+      <path id="Tracé_1494-2" data-name="Tracé 1494" d="M-.312-1,79.222-3.927,76.613,60.546-2.92,63.47Z" transform="translate(12.44 24.69) rotate(-8)" fill="#fff"/>
+    </g>
+    <text id="Journées" transform="translate(1394.764 133.674) rotate(-9)" font-size="11" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.021em" opacity="0.83"><tspan x="0" y="10">Journées</tspan></text>
+    <text id="PORTES_OUVERTES_" data-name="PORTES OUVERTES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" transform="translate(1392.906 144.394) rotate(-10)" fill="#7db526" font-size="11" font-family="CenturyGothic-BoldItalic, Century Gothic" font-weight="700" font-style="italic" letter-spacing="0.021em" opacity="0.81"><tspan x="8.694" y="11">PORTES </tspan><tspan x="1.311" y="21">OUVERTES</tspan></text>
+    <g id="Ellipse_149" data-name="Ellipse 149" transform="translate(1410.831 98.797)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_150" data-name="Ellipse 150" transform="translate(1400.831 128.797)" stroke="#000" stroke-width="1">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="none"/>
+    </g>
+    <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(1431.831 121.797)" stroke="#000" stroke-width="1">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="none"/>
+    </g>
+    <path id="Tracé_1492" data-name="Tracé 1492" d="M-16547.41-18075.416c-9.119,24.7-10,25.508-10,25.508" transform="translate(17959.92 18180.213)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Tracé_1493" data-name="Tracé 1493" d="M14.2,0C1.252,21.079,0,21.774,0,21.774" transform="translate(1412.115 118.399) rotate(-77)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

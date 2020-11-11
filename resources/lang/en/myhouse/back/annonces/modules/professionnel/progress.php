@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'aa' => 'YOUR PROFESSIONALS',
+    'ab' => 'AD',
+    'ac' => '1',
+    'ad' => 'Log in',
+    'ae' => '2',
+    'af' => 'Subscription',
+    'ag' => '3',
+    'ah' => 'Recording',
+    'ai' => '4',
+    'aj' => 'Transaction',
+    'ak' => '5',
+    'al' => 'Type of property',
+    'am' => '6',
+    'an' => 'Property',
+    'ao' => 'criteria',
+    'ap' => '7',
+    'aq' => 'Presentation text',
+    'ar' => '8',
+    'as' => 'Media',
+    'at' => '9',
+    'au' => 'Location',
+    'av' => '10',
+    'aw' => 'Payment',
+];
